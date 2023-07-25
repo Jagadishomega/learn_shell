@@ -6,5 +6,5 @@ This repos is for practicing Shell scripting and Storing automation shell-script
 
 #List of topics
 
-    1. Comments
-    2. 
+#    1. Comments
+#    2. 
