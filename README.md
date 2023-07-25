@@ -4,4 +4,7 @@ This repos is for practicing Shell scripting and Storing automation shell-script
 
 #Shell scripting, We learn Bash shell scripting
 
-#s
+#List of topics
+
+    1. Comments
+    2. 
